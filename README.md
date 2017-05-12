@@ -1,5 +1,5 @@
 # chromium-xvfb-js-java8
-Javascript testing inside a Docker image with headless Google Chrome, node and Java8 (for Selenium). This container has been created for CI e2e testing purposes.
+Based on https://github.com/mark-adams/docker-chromium-xvfb. Javascript testing inside a Docker image with headless Google Chrome, node and Java8 (for Selenium). This container has been created for CI e2e testing purposes.
 
 ## Vue-CLI e2e testing
 In this container you can run your vue-cli e2e testing.
